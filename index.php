@@ -9,4 +9,3 @@ $dog = new Dog();
 
 echo $cat->talk() . '<br>' . $dog->talk();
 
-?>
